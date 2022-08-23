@@ -1,0 +1,62 @@
+!DOCTYPE html
+html
+  head
+   style
+body {
+  background-image url('fileUDocumentsDevoirsPROJET%20FIN%20DE%20TERMINALtrucs%20par%20rapport%20au%20sitenature-1646753465760-469.jpg');
+    background-repeat no-repeat;
+    background-attachment fixed;
+  background-size cover;
+}
+style
+     script src=httpskit.fontawesome.come78d116e5d.js crossorigin=anonymousscript !-- pour les icones dans le footer --
+     meta charset=UTF-8 
+	 meta name=viewport content=width=device-widht, initial-scale=1.0
+	 link rel=stylesheet href=Site_web_projet_hydraulique.css !-- lie l'html avec le css --
+	 title Notre projet hydro-éléctriquetitle
+  head
+  body
+      nav
+	      h1NOTRE PROJETh1 
+		  div class=onglets
+		      a href=fileUDocumentsDevoirsPROJET%20FIN%20DE%20TERMINALSite_web_projet_hydraulique.htmlAccueila
+		      a href=fileUDocumentsDevoirsPROJET FIN DE TERMINALRoles.htmlRôlesa
+			  a href=fileUDocumentsDevoirsPROJET%20FIN%20DE%20TERMINALProblematiques.htmlProblématiquesa
+			  a href=fileUDocumentsDevoirsPROJET%20FIN%20DE%20TERMINALJournal.htmlArchivesa
+			  a href=fileUDocumentsDevoirsPROJET%20FIN%20DE%20TERMINALApplication.htmlApplicationa
+		  div
+	  nav
+	  
+	
+	h2Notre applicationh2
+	brbrbrbrbr
+	
+	
+	
+	
+	
+	
+	
+	
+  
+  footer
+	      h2&copy; 2022, TERMINALE STI2Dh2 !--en bas du site, discord et steam de Timothée--
+		  div class=social-media
+			   p
+			   a href=httpsdiscord.gg9XnwywX65Q target=_blank
+               i class=fa-brands fa-discordia
+			   p
+		       p
+			   a href=httpssteamcommunity.comidMichelDuponT target=_blank
+			   i class=fa-brands fa-steamia
+			   p
+			  
+			
+		
+		  div
+	 
+	 
+	 footer
+	  
+
+html
